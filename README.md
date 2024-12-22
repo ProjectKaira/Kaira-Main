@@ -1,4 +1,4 @@
-# ZerePy
+# Kaira AI | ZerePy
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
 
@@ -13,7 +13,7 @@ similar core functionality as Zerebro. For creative outputs, you'll need to fine
 
 ## Quickstart
 
-The quickest way to start using ZerePy is to use our Replit template:
+The quickest way to start using Kaira/ZerePy is to use our Replit template:
 
 https://replit.com/@blormdev/ZerePy?v=1
 
